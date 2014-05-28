@@ -1,3 +1,6 @@
 [submodule "twbs-grid"]
 	path = twbs-grid
 	url = https://github.com/mvaldetaro/twbs-grid.git
+[submodule "twbs-buttons"]
+	path = twbs-buttons
+	url = https://github.com/mvaldetaro/twbs-buttons.git
