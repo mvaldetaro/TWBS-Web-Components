@@ -1,6 +1,6 @@
 # Twitter Bootstrap Web Components;
 
-Componentizing the Twiiter Bootstrap may be a good idea? We'll see!
+Componentizing the Twitter Bootstrap may be a good idea? We'll see!
 
 This project is an experiment on web components.
 
